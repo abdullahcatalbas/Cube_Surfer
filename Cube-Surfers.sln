@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuaweiMobileServices.Core", "HuaweiMobileServices.Core.csproj", "{2773C427-C7F6-EB86-48EF-FBF71F6306EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4BEB65EB-BDB1-A23D-25B8-B6BCAF84D708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{ADCE0C1E-7C79-FFB2-4290-24F512FBD4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlayerPrefsEditor.Samples.SampleScene", "Unity.PlayerPrefsEditor.Samples.SampleScene.csproj", "{ECA174AD-7FF4-E186-4FB9-ED31DBA70986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuaweiMobileServices.Editor", "HuaweiMobileServices.Editor.csproj", "{6996BB64-B4B9-78C1-B277-E5259D11FD9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlayerPrefsEditor.Editor", "Unity.PlayerPrefsEditor.Editor.csproj", "{68FE50AB-6929-30EA-FA81-6238580412A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlayerPrefsEditor.EditorResources", "Unity.PlayerPrefsEditor.EditorResources.csproj", "{82FE3227-3491-DA82-F3D8-6B915D69AC1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2773C427-C7F6-EB86-48EF-FBF71F6306EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2773C427-C7F6-EB86-48EF-FBF71F6306EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2773C427-C7F6-EB86-48EF-FBF71F6306EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2773C427-C7F6-EB86-48EF-FBF71F6306EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEB65EB-BDB1-A23D-25B8-B6BCAF84D708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEB65EB-BDB1-A23D-25B8-B6BCAF84D708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEB65EB-BDB1-A23D-25B8-B6BCAF84D708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEB65EB-BDB1-A23D-25B8-B6BCAF84D708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCE0C1E-7C79-FFB2-4290-24F512FBD4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCE0C1E-7C79-FFB2-4290-24F512FBD4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCE0C1E-7C79-FFB2-4290-24F512FBD4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCE0C1E-7C79-FFB2-4290-24F512FBD4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA174AD-7FF4-E186-4FB9-ED31DBA70986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA174AD-7FF4-E186-4FB9-ED31DBA70986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA174AD-7FF4-E186-4FB9-ED31DBA70986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA174AD-7FF4-E186-4FB9-ED31DBA70986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6996BB64-B4B9-78C1-B277-E5259D11FD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6996BB64-B4B9-78C1-B277-E5259D11FD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6996BB64-B4B9-78C1-B277-E5259D11FD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6996BB64-B4B9-78C1-B277-E5259D11FD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FE50AB-6929-30EA-FA81-6238580412A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FE50AB-6929-30EA-FA81-6238580412A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FE50AB-6929-30EA-FA81-6238580412A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FE50AB-6929-30EA-FA81-6238580412A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FE3227-3491-DA82-F3D8-6B915D69AC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FE3227-3491-DA82-F3D8-6B915D69AC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FE3227-3491-DA82-F3D8-6B915D69AC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FE3227-3491-DA82-F3D8-6B915D69AC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
